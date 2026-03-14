@@ -1,3 +1,5 @@
+ video link : https://www.loom.com/share/f93fd9de4f2e4f42aad3f7cbd7f4dfd4
+
 Recruiters often review resumes very quickly, which increases the chances of qualified candidates being overlooked.
 Students also face several difficulties while preparing resumes:
 Identifying the right skills and keywords
