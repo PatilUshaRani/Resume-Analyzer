@@ -1,0 +1,6 @@
+streamlit
+pandas
+plotly
+pdfplumber
+Pillow
+streamlit-tags
