@@ -80,5 +80,3 @@ Install Dependencies
 pip install -r requirements.txt
 Run the Application
 streamlit run app.py
-
-video link : video link : https://www.loom.com/share/f93fd9de4f2e4f42aad3f7cbd7f4dfd4
